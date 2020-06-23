@@ -1,0 +1,116 @@
+body{
+font-family: Poppins;
+font-size: 15px;
+color: white;
+}
+
+header{
+padding: 20px 0;
+position: absolute;
+background-color: transparent;
+width: 100%;
+z-index: 999999;
+}
+
+span{
+	color:#fba755;
+}
+
+#sec-home{
+background-image:url("../img/home-header-bg.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+color: #FFFFFF;
+padding: 20% 30% 10% 0;
+text-align: center;
+}
+
+#sec-home h1{
+text-align: left;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+
+#sec-home h3{
+text-align: left;
+font-size: 65px;
+font-weight: 700;
+}
+
+.btn-running{
+align-items: baseline;
+color: #272525;
+text-transform: uppercase;
+padding: 12px 30px;
+border: 0;
+letter-spacing: 1px;
+padding-right: 20px;
+}
+
+#sec-coaches{
+	text-align: center;
+	background-color: white;
+}
+	
+#sec-coaches h4{
+	font-size: 25px;
+	color: #272525;
+	font-weight:700;
+	margin-bottom: 20px;
+	padding-top: 20px;
+}
+
+#sec-coaches p{
+	font-size: 16px;
+	color: #272525;
+	font-weight:200;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	
+}
+
+
+#sec-about{
+	margin: 20px 10px;
+	padding: 50px 10px;
+	background-color: white;
+}
+
+#sec-about h2{
+	padding-top: 20px;
+	font-size: 20px;
+	color: #272525;
+	font-weight:600;
+	margin-bottom: 20px
+}
+
+#sec-about p{
+	padding-top: 10px;
+	font-size: 13px;
+	color: #222222;
+	font-weight:300;
+	margin-bottom: 30px
+}
+
+#sec-gallery{
+	padding: 0;
+}
+
+.letranaranja{
+	color: #fba755;
+}
+
+footer{
+	background-color: #272525;
+}
+
+.letragris{
+	color: white;
+}
+
+footer h2{
+	align-content: center;
+	color: white;
+}
